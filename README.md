@@ -26,12 +26,20 @@ This project features an **interactive Sales Dashboard built using Microsoft Exc
 
 ## 📈 Dashboard Visuals
 
-| Dashboard Overview | Central Region | Filtered View |
-|--------------------|----------------|---------------|
-| ![Dashboard Overview](./images/overall.png) | ![Central Region](./images/central_region.png) | ![Filtered View](./images/filtered_view.png) |
 
-More details can be found in the project report.
+---
 
+## 📈 Dashboard Visuals
+
+Dashboard screenshots are available in the following folder within the repository:
+```
+sales-data-analysis/
+│
+├── images/                  # Dashboard screenshots
+│   ├── overall.png 
+│   ├── central_region.png
+│   └── filtered_view.png 
+```
 ---
 
 ## 🛠️ Tools & Skills Used
@@ -55,8 +63,13 @@ More details can be found in the project report.
 
 ## 📄 Documentation
 
-- 📑 [Sales Dashboard Report](./docs/Sales_Dashboard_Report.pdf)
-
+The report of project is available in the following folder within the repository:
+```
+sales-data-analysis/
+│
+├── docs/                    # Project report/documentation
+│   └── Sales_Dashboard_Report.pdf
+```
 The report provides an in-depth summary of the dashboard, insights, and metrics.
 
 ---
