@@ -30,6 +30,7 @@ This project features an **interactive Sales Dashboard built using Microsoft Exc
 ---
 
 ## 📈 Dashboard Visuals
+![Alt Text](images/myimage.png)
 
 Dashboard screenshots are available in the following folder within the repository:
 ```
