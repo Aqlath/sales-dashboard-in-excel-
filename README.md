@@ -26,7 +26,7 @@ This project features an **interactive Sales Dashboard built using Microsoft Exc
 
 
 ## 📈 Dashboard Visuals
-![Alt Text](images/overall.png)
+![Alt Text]([images/overall.png](https://github.com/Aqlath/sales-dashboard-in-excel-/blob/main/sales%20data%20analysis/images/overall.png))
 
 Dashboard screenshots are available in the following folder within the repository:
 ```
